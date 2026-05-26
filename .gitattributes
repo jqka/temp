@@ -1,0 +1,4 @@
+Dockerfile-dev-thai merge=ours
+Dockerfile-uat merge=ours
+Jenkinsfile-uat merge=ours
+Jenkinsfile-dev-thai merge=ours
